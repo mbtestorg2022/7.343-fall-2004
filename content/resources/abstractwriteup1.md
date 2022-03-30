@@ -5,6 +5,7 @@ description: For the second written assignment, students will be given an abstra
   support the conclusions presented in it.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/8900fd6e5c1d0f15c74ede4dac9e1153_abstractwriteup1.pdf
 file_type: application/pdf
+parent_uid: 12086f92-ee8b-a08d-8cee-983cdf1727fa
 resourcetype: Document
 title: abstractwriteup1.pdf
 uid: 8900fd6e-5c1d-0f15-c74e-de4dac9e1153

@@ -9,6 +9,7 @@ description: This assignment will coincide with an oral presentation and will in
   a "handbook" of techniques used in the protein folding field.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/1fc2cbfde81802d3ab378200e5f179b6_present_guide2.pdf
 file_type: application/pdf
+parent_uid: 12086f92-ee8b-a08d-8cee-983cdf1727fa
 resourcetype: Document
 title: present_guide2.pdf
 uid: 1fc2cbfd-e818-02d3-ab37-8200e5f179b6

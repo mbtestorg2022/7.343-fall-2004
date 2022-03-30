@@ -7,6 +7,7 @@ description: The third written assignment will be to design a two page research 
   the instructor to discuss ideas and topics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/ecbbeafa420ae27336d37353118dc8f4_researchproposal.pdf
 file_type: application/pdf
+parent_uid: 12086f92-ee8b-a08d-8cee-983cdf1727fa
 resourcetype: Document
 title: researchproposal.pdf
 uid: ecbbeafa-420a-e273-36d3-7353118dc8f4
